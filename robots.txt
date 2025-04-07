@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Priyakarna13.github.io/al-folio/sitemap.xml
+Sitemap: https://priyakarna13.github.io/al-folio/sitemap.xml
